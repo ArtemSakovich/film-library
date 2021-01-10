@@ -1,0 +1,87 @@
+﻿<Window x:Class="filmLibrary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:filmLibrary"
+        mc:Ignorable="d"
+        Title="FILM LIBRARY" Background="#FF4B0082" Height="500" Width="700" Icon="C:\workspace\mainIcon.ico" WindowState="Maximized">
+    <Window.Resources>
+        <DataTemplate x:Key="listTemplate">
+            <StackPanel Margin="5">
+                <Image Width="225px" Source="{Binding Path=ImagePath}" />
+                <TextBlock Background="#FF4B0082" Text="{Binding Path=Title}" FontSize="15" VerticalAlignment="Center" Foreground="White" FontFamily="Verdana" FontWeight="DemiBold"  HorizontalAlignment="Left" />
+            </StackPanel>
+        </DataTemplate>
+        <ItemsPanelTemplate x:Key="listPanelTemplate">
+            <WrapPanel />
+        </ItemsPanelTemplate>
+    </Window.Resources>
+    <Grid ShowGridLines="false">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100px"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid ShowGridLines="False" Grid.Column="0" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Grid.Row="0" Content="Popular" Click="filterButton_Click" Background="#FF483D8B"  Foreground="White" FontSize="15" FontFamily="Verdana"  FontWeight="DemiBold" BorderThickness="0"/>
+            <Button Grid.Column="1" Grid.Row="0" Content="Comedy" Click="filterButton_Click" Background="#FF483D8B" Foreground="White" FontSize="15" FontFamily="Verdana" FontWeight="DemiBold" BorderThickness="0" />
+            <Button Grid.Column="2" Grid.Row="0" Content="Romance" Click="filterButton_Click" Background="#FF483D8B" Foreground="White" FontSize="15" FontFamily="Verdana" FontWeight="DemiBold" BorderThickness="0" />
+            <Button Grid.Column="3" Grid.Row="0" Content="Thriller" Click="filterButton_Click" Background="#FF483D8B" Foreground="White" FontSize="15" FontFamily="Verdana" FontWeight="DemiBold" BorderThickness="0"/>
+            <Button Grid.Column="4" Grid.Row="0" Content="Fantasy" Click="filterButton_Click" Background="#FF483D8B" Foreground="White" FontSize="15" FontFamily="Verdana" FontWeight="DemiBold" BorderThickness="0"/>
+            <Button Grid.Column="5" Grid.Row="0" Content="Detective" Click="filterButton_Click" Background="#FF483D8B" Foreground="White" FontSize="15" FontFamily="Verdana" FontWeight="DemiBold" BorderThickness="0"/>
+            <Button Grid.Column="6" Grid.Row="0" Content="🔍 Search" Click="searchButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="18" FontFamily="Verdana" FontWeight="ExtraBold" BorderThickness="0"/>
+
+        </Grid>
+        <Grid ShowGridLines="False" Grid.Column="0" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150px"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Row="1" Grid.Column="0" Content="ALL FILMS" Click="allFimsButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+                <Button Grid.Row="1" Grid.Column="1" Content="SORT ALL BY TITLE" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center"  />
+                <Button Grid.Row="1" Grid.Column="2" Content="SORT ALL BY COMPANY" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+                <Button Grid.Row="1" Grid.Column="3" Content="SORT ALL BY YEAR" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+                <Button Grid.Row="1" Grid.Column="4" Content="SORT ALL BY DURATION" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px"  VerticalAlignment="Center" />
+                <Button Grid.Row="1" Grid.Column="5" Content="SORT ALL BY FORMAT" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+                <Button Grid.Row="1" Grid.Column="6" Content="SORT ALL BY QUALITY" Click="sortButton_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+                <TextBox x:Name="searchTextBox" Text = "Type to search" Grid.Row="0" Grid.Column="7" KeyUp="TextBox_KeyUp" VerticalAlignment="Center" Background="#FF4B0082" FontSize="17" Foreground="White" Height="25px" Width="200px"  FontFamily="Verdana" BorderThickness="1" BorderBrush="MediumVioletRed"/>
+                <Button Grid.Row="1" Grid.Column="7" Content="ADD NEW FILM" Click="openAddWindow_Click" Background="MediumVioletRed" Foreground="White" FontSize="14" FontFamily="Verdana" BorderThickness="0" FontWeight="DemiBold" Width="200px" Height="60px" VerticalAlignment="Center" />
+            </Grid>
+        
+            <ListBox x:Name="filmsList" Grid.Row="1" Background="#FF4B0082" BorderThickness="0" HorizontalAlignment="Center" 
+                 ItemTemplate="{StaticResource listTemplate}"
+                 ItemsPanel="{StaticResource listPanelTemplate}"
+                 SelectionChanged="filmList_SelectionChanged"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+                
+        </Grid>
+    </Grid>
+
+
+
+</Window>

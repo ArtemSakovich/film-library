@@ -1,0 +1,57 @@
+﻿<Window x:Class="filmLibrary.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:filmLibrary"
+        mc:Ignorable="d"
+        Title="INFORMATION" Height="450" Width="800" Background="#FF483D8B" Icon="C:\workspace\infoIcon.ico">
+    <Grid x:Name="myGrid" ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200px"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180px" ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="180px"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="1"  Width="225px" Source = "{Binding Path=ImagePath}" />
+        <TextBlock Grid.Row="2" Grid.Column="0" Text = "Company:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="3" Grid.Column="0" Text = "Year of issue:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="4" Grid.Column="0" Text = "Genre:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="5" Grid.Column="0" Text = "Duration:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="6" Grid.Column="0" Text = "Format:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="7" Grid.Column="0" Text = "Quality:" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="1" Grid.Column="1" Text = "{Binding Path=Title}" HorizontalAlignment="Center" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="2" Grid.Column="1" Text = "{Binding Path=Company}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="3" Grid.Column="1" Text = "{Binding Path=Year}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="4" Grid.Column="1" Text = "{Binding Path=Genre}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="5" Grid.Column="1" Text = "{Binding Path=DurationInMinutes}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="6" Grid.Column="1" Text = "{Binding Path=Format}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <TextBlock Grid.Row="7" Grid.Column="1" Text = "{Binding Path=Quality}" Foreground="AntiqueWhite" FontSize="18"  VerticalAlignment="Center" FontFamily="Verdana" FontWeight="DemiBold" />
+        <Button Grid.Row="5" Grid.Column="2" Grid.RowSpan="2" HorizontalAlignment="Center" Content="▶ Trailer" Background="MediumVioletRed" FontSize="18" FontFamily="Verdana" FontWeight="DemiBold" Foreground="AntiqueWhite" Click="playThrailerButton_Click" Width="130px"/>
+        <Grid ShowGridLines="False" Grid.Row="0" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Width="130px" Grid.Row="1" HorizontalAlignment="Center" Content="Edit" Background="MediumVioletRed" FontSize="18" FontFamily="Verdana" FontWeight="DemiBold" Foreground="AntiqueWhite" Click="editButton_Click"/>
+        </Grid>
+        <Grid ShowGridLines="False" Grid.Row="0" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Width="130px" Grid.Row="1" HorizontalAlignment="Center" Content="Delete" Background="MediumVioletRed" FontSize="18" FontFamily="Verdana" FontWeight="DemiBold" Foreground="AntiqueWhite" Click="deleteButton_Click"/>
+        </Grid>
+    </Grid>
+</Window>

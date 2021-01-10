@@ -1,0 +1,1431 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Title>Avangers: Endgame</Title>
+    <Company>Marvel</Company>
+    <Year>2018</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>180</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\avangers1.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\avangersThrailer.mov</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Avatar</Title>
+    <Company>20th Fox Century</Company>
+    <Year>2008</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>143</DurationInMinutes>
+    <Format>DVDRip</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\avatar.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\avatar.mov</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Batman: Begins</Title>
+    <Company>DC</Company>
+    <Year>2003</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>112</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\batman.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\batman.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Big Sick</Title>
+    <Company>FilmNation Entertainment</Company>
+    <Year>2017</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>121</DurationInMinutes>
+    <Format>BDRip</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\bigSick.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\bigSick.mov</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Black Panther</Title>
+    <Company>Marvel</Company>
+    <Year>2018</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>152</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\blackPanther.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\blackPantherTrailer.mov</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Booksmart</Title>
+    <Company>Annapurna Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>102</DurationInMinutes>
+    <Format>BDRip</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\booksmart.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\booksmart.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Crazy Rich Asians</Title>
+    <Company>SK Global Entertainment</Company>
+    <Year>2018</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>121</DurationInMinutes>
+    <Format>DVDRip</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\crazyRichAsians.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\crazyRichAsians.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Dark Knight: Rises</Title>
+    <Company>DC</Company>
+    <Year>2003</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>178</DurationInMinutes>
+    <Format>BDRip</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\darkKnight.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\darkKnight.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Dear Affy</Title>
+    <Company>FilmOne Entertaiment</Company>
+    <Year>2020</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>DVDRip</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\dearAffy.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\dearAffy.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Die Hard</Title>
+    <Company>Gordon Company</Company>
+    <Year>1988</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>132</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\dieHard.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\dieHard.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Drive</Title>
+    <Company>Bold Films</Company>
+    <Year>2011</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>100</DurationInMinutes>
+    <Format>BDRip</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\drive.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\drive.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Girls Trip</Title>
+    <Company>Will Packer Productions</Company>
+    <Year>2017</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>122</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\girlsTrip.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\girlsTrip.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Halloween</Title>
+    <Company>Dimension Films</Company>
+    <Year>2007</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\halloween.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\halloween.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Hostel</Title>
+    <Company>Next Entertainment</Company>
+    <Year>2005</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>93</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\hostel.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\hostel.jpg</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Hunger Games</Title>
+    <Company>Color Force</Company>
+    <Year>2012</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>142</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\hungerGames.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\hungerGame.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Hustle</Title>
+    <Company>Metro Goldwyn Mayer</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>94</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\hustle.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theHustle.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Jaws</Title>
+    <Company>Universal Pictures</Company>
+    <Year>1975</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>124</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\jaws.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\jaws.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Joker</Title>
+    <Company>DC</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>134</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\joker.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\joker.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Jumanji: Next Level</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2014</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>142</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\jumanji1.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\jumanji.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Juno</Title>
+    <Company>Mandate Pictures</Company>
+    <Year>2007</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>96</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\juno.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\juno.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Knives Out</Title>
+    <Company>MRC</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>130</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\knives.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\knivesOut.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Lady Bird</Title>
+    <Company>IAC Films</Company>
+    <Year>2017</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>94</DurationInMinutes>
+    <Format>DVDRip</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\ladyBird.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\ladyBird.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>La La Land</Title>
+    <Company>Summit Entertaiment</Company>
+    <Year>2016</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>128</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\lalaland.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\lalaLand.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Lion King</Title>
+    <Company>Disney</Company>
+    <Year>2019</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>118</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\lionKing.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\lionKing.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Moonlight</Title>
+    <Company>A24</Company>
+    <Year>2016</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>111</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\moonlight.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\moonlight.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Old School</Title>
+    <Company>The Montecito Picture</Company>
+    <Year>2003</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>90</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\oldSchool.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\oldSchool.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Once In Hollywood</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>161</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\onceinhollywood.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\onceInHollywood.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Parasite</Title>
+    <Company>Baruson EA</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>132</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\parasite1.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\parasite.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Shape Of Water</Title>
+    <Company>TSG Entertaiment</Company>
+    <Year>2017</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>123</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\shapeOfWater.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\shapeOfWater.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Shaun Of The Dead</Title>
+    <Company>StudioCanal</Company>
+    <Year>2004</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>99</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\shaunOfTheDead.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\shaunOfTheDead.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Spider-Man: 2</Title>
+    <Company>Marvel</Company>
+    <Year>2004</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>127</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\spiderMan.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\spiderMan.jpg</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Star Wars: Episode 7</Title>
+    <Company>Lucasfilm Ltd</Company>
+    <Year>2015</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>135</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\starwars.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\starWarsEpisode7.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Thor: Ragnarok</Title>
+    <Company>Marvel</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>130</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\thor.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\thor.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Alice in Wonderland</Title>
+    <Company>Disney</Company>
+    <Year>2010</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>108</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\alice.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\aliceInWonderLand.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Batman vs Superman</Title>
+    <Company>DC</Company>
+    <Year>2016</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>152</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\batmanVsSuperman.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\batmanVsSuperman.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Harry Potter: Azkaban</Title>
+    <Company>Bloomsbury</Company>
+    <Year>2004</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>141</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\harryPotter.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\harryPotterAzkaban.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Independence Day</Title>
+    <Company>Centropolist Entertainment</Company>
+    <Year>1996</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>145</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\independenceDay.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\independanceDay.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Inception</Title>
+    <Company>Legendary Pictures</Company>
+    <Year>2010</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>148</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\inception.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\inception.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Wonder Woman</Title>
+    <Company>DC</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>141</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\wonderWoman.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\wonderWoman.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>True Romance</Title>
+    <Company>Morgan Creek Productions</Company>
+    <Year>1993</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>118</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\trueRomance.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\trueRomance.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Mad Max: Fury Road</Title>
+    <Company>Kennedy Miller Mitchell</Company>
+    <Year>2015</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>120</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\madMax.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\madMax.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Central Intelligence</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2016</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>108</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\centralIntelligence.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\centralIntelligence.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Baby Driver</Title>
+    <Company>TriStar Pictures</Company>
+    <Year>2017</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>113</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\babyDriver.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\babyDriver.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Warcraft</Title>
+    <Company>Legendary Pictures</Company>
+    <Year>2016</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>123</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\warcraft.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\warcraft.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Heaven Knows What</Title>
+    <Company>Iconoclast</Company>
+    <Year>2014</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>94</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\heavenKnows.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\heavenKnowsWhat.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Revenant</Title>
+    <Company>Regency Enterprises</Company>
+    <Year>2015</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>156</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\revenant.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\revenant.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Gods</Title>
+    <Company>Gdyinia Films</Company>
+    <Year>2015</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>131</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\gods.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\gods.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Daddys Home 2</Title>
+    <Company>Gary Sanchez Productions</Company>
+    <Year>2017</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>99</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\daddysHome.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\daddysHome2.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Burnt</Title>
+    <Company>Shiny Penny Productions</Company>
+    <Year>2015</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>101</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\burnt.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\burnts.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Last Christmas</Title>
+    <Company>Feigco Entertainment</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>103</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\lastChristmas.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\lastchristamas.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Tag</Title>
+    <Company>Broken Road Productions</Company>
+    <Year>2018</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>101</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\tag.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\tag.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Christmas Chronicles</Title>
+    <Company>1492 Pictures</Company>
+    <Year>2018</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>103</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\christmasChronicals.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\christmasChronicals.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Dolittle</Title>
+    <Company>Kirschenbaum Films</Company>
+    <Year>2020</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>101</DurationInMinutes>
+    <Format>DVDRip</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\dolitte.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\dolittle.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Bad Boys for Life</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>124</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\badBoys.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\badBoysForLife.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Ted</Title>
+    <Company>Media Rights Capital</Company>
+    <Year>2012</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>121</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\ted.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\tedTrailer.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Charlies Angels</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>119</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\charliesAngels.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\charlieAngels.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Hobbs n Shaw</Title>
+    <Company>Seven Bucks Productions</Company>
+    <Year>2019</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>137</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\fastFurios.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\hobbsNShau.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Deadpool: 2</Title>
+    <Company>20th Century Fox</Company>
+    <Year>2018</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>119</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\deadpool.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\deadpool2.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>We are the Millers</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2013</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>VoB</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\millers.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\millers.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Intern</Title>
+    <Company>RatPac Dune</Company>
+    <Year>2015</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>121</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\intern.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theIntern.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Why Him</Title>
+    <Company>Red Hour Productions</Company>
+    <Year>2016</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>111</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\whyHim.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\whyHim.jpg</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Baywatch</Title>
+    <Company>GTG Entertainment</Company>
+    <Year>2017</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>142</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\baywatch.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\baywatch.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Vacation</Title>
+    <Company>New Line Cinema[</Company>
+    <Year>2015</Year>
+    <Genre>Comedy</Genre>
+    <DurationInMinutes>124</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\vacation.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\vacation.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Passengers</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2016</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>116</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\passangers.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\holidate.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Fifty Shades Freed</Title>
+    <Company>Perfect World Pictures</Company>
+    <Year>2018</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\fiftyShadesFreed.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\fiftyShades.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>To All the Boys</Title>
+    <Company>Overbrook Entertainment</Company>
+    <Year>2018</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>99</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\toAllBoys.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\toAllBoys.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>365 Days</Title>
+    <Company>Ekipa Sp</Company>
+    <Year>2020</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>114</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\365.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\365days.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Before Christmas</Title>
+    <Company>MPCA</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>92</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>true</IsPopular>
+    <ImagePath>C:\workspace\knightBeforeChristmas.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\knightBeforeChristmas.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>What Men Want</Title>
+    <Company>Will Packer Productions</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>117</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\whatManWant.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\whatManWant.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Holidate</Title>
+    <Company>Wonderland Sound and Vision</Company>
+    <Year>2020</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>103</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\holidate.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\holidate.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Goldfinch</Title>
+    <Company>Amazon Studios</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>149</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\goldFinch.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\goldFinch.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Is Not It Romantic</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>89</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\intItRomantic.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\isntItRomantic.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Marriage Story</Title>
+    <Company>Heyday Films</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>137</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\marriageStory.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\marriageStory.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Focus</Title>
+    <Company>RatPac Dune</Company>
+    <Year>2015</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>104</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\focus.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\focus.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Me Before You</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2016</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\meBeforeYou.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\meBeforeYou.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Let It Snow</Title>
+    <Company>Dylan Clark Productions</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>92</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\letItSnow.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\letItSnow.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Kissing Booth: 2</Title>
+    <Company>Picture Loom Productions</Company>
+    <Year>2020</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>131</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\kissingBooth.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\kissingBooth2.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Star Is Born</Title>
+    <Company>Metro Goldwyn Mayer</Company>
+    <Year>2018</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>136</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\starIsBorn.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\starIsBorn.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Little Women</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>135</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\littleWoman.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\littleWoman.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Alita: Battle Angel</Title>
+    <Company>20th Century Fox</Company>
+    <Year>2019</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>122</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\alita.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\alita.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Fifty Shades Darker</Title>
+    <Company>Perfect World Pictures</Company>
+    <Year>2017</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>131</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\shadesOfGray.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\shades.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Collateral Beauty</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2016</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>97</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\collateralBeauty.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\collateral.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Princess Switch</Title>
+    <Company>Motion Picture Corporation</Company>
+    <Year>2018</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>102</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\princessSwitch.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\princessSwitch.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>If I Stay</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2014</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>106</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\ifIStay.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\ifIStay.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Dog's Purpose</Title>
+    <Company>Amblin Entertainment</Company>
+    <Year>2017</Year>
+    <Genre>Romance</Genre>
+    <DurationInMinutes>100</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\dogsPurpose.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\dogsPurpose.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Shutter Island</Title>
+    <Company>Phoenix Pictures</Company>
+    <Year>2010</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>139</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\shutterIsland.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\shutterIsland.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Searching</Title>
+    <Company>Bazelevs Company</Company>
+    <Year>2018</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>102</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\searching.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\searching.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Platform</Title>
+    <Company>Basque Films</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>94</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\platform.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\platform.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Extraction</Title>
+    <Company>AGBO</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>117</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\extraction.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\extraction.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Grudge</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2004</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>91</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\theGrudge.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theGrudge.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Fantasy Island</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>109</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\fantasyIsland.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\fantasyIsland.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Doctor Sleep</Title>
+    <Company>Intrepid Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>152</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\doctorSleep.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\doctorSleep.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Underwater</Title>
+    <Company>TSG Entertainment</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>95</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\underwater.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\underWater.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Turning</Title>
+    <Company>DreamWorks Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>94</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>360</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\turning.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theTurning.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Memento</Title>
+    <Company>Summit Entertainment</Company>
+    <Year>2000</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>113</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\memento.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\memento.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Snowman</Title>
+    <Company>Perfect World Pictures</Company>
+    <Year>2017</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>119</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\snowMan.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\snowman.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Invisible Man</Title>
+    <Company>Universal Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>124</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\invisible.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\invisibleMan.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Truth or Dare</Title>
+    <Company>Blumhouse Productions</Company>
+    <Year>2018</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>100</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\truthOrDare.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\truthOrDare.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Crawl</Title>
+    <Company>Raimi Productions</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>87</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>360</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\crawl.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\crawl.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Bird Box</Title>
+    <Company>Bluegrass Films</Company>
+    <Year>2018</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>124</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\birdBox.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\birdBox.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Pet Sematary</Title>
+    <Company>Di Bonaventura Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>101</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\petSematary.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\petSemetary.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Fractured</Title>
+    <Company>Koji Productions</Company>
+    <Year>2019</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>100</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\fractured.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\fractured.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Fantastic Beasts</Title>
+    <Company>Warner Bros. Pictures</Company>
+    <Year>2019</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>134</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\fantasticBeasts.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\fantasticBeasts.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Bloodshot</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>109</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\bloodshot.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\bloodshot.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Mortal Engines</Title>
+    <Company>Universal Pictures</Company>
+    <Year>2018</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>128</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>480</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\mortalEngines.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\mortalEngines.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Bright</Title>
+    <Company>Overbrook Entertainment</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>118</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\bright.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\bright.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Peculiar Children</Title>
+    <Company>Chernin Entertainment</Company>
+    <Year>2016</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>127</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\homeForPeculiar.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\peculiarChildren.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Assassin Creed</Title>
+    <Company>New Regency</Company>
+    <Year>2016</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>115</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\assassinCreed.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\assasinCreed.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Old Guard</Title>
+    <Company>Skydance Media</Company>
+    <Year>2020</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>125</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\theOldGuard.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theOldGuard.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Shazam</Title>
+    <Company>New Line Cinema</Company>
+    <Year>2019</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>132</DurationInMinutes>
+    <Format>BDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\shazam.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\shazam.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Logan</Title>
+    <Company>20th Century Fox</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>137</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>360</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\logan.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\logan.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Dark Phoenix</Title>
+    <Company>Marvel Entertainment</Company>
+    <Year>2019</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>114</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\xMen.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\xMen.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Mummy</Title>
+    <Company>Dark Universe</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>110</DurationInMinutes>
+    <Format>Ogg</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\mummy.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\theMummy.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>The Dark Tower</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2017</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>95</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\darkTower.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\darkTower.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Aquaman</Title>
+    <Company>Warner Bros. Pictures</Company>
+    <Year>2018</Year>
+    <Genre>Fantasy</Genre>
+    <DurationInMinutes>143</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\aquaman.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\aquamen.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Secret Obsession</Title>
+    <Company>WB Company</Company>
+    <Year>2019</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>123</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\secretObsession.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\secretObsession.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Legado</Title>
+    <Company>20th Fox Century</Company>
+    <Year>2018</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>142</DurationInMinutes>
+    <Format>DVDRiP</Format>
+    <Quality>1080</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\legendo.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\legado.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>Moon Shadow</Title>
+    <Company>Columbia Pictures</Company>
+    <Year>2020</Year>
+    <Genre>Detective</Genre>
+    <DurationInMinutes>112</DurationInMinutes>
+    <Format>AVI</Format>
+    <Quality>720</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\inTheShadowOfTheMoon.jpg</ImagePath>
+    <ThrailerPath>C:\workspace\inTheShadowOfTheMoon.mp4</ThrailerPath>
+  </Film>
+  <Film>
+    <Title>jfahjshjbf</Title>
+    <Company>sgdsdg</Company>
+    <Year>2020</Year>
+    <Genre>Thriller</Genre>
+    <DurationInMinutes>100</DurationInMinutes>
+    <Format>fsasf</Format>
+    <Quality>360</Quality>
+    <IsPopular>false</IsPopular>
+    <ImagePath>C:\workspace\avangers1.jpg</ImagePath>
+    <ThrailerPath />
+  </Film>
+</ArrayOfFilm>
